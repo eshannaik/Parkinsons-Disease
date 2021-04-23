@@ -1,11 +1,15 @@
 # Parkinsons-Disease
 
 ### The Dataset has been gone from https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/
-#
-### The project is done in Google Colab using only python
+### The project is done in Google Colab.
 
-#
-# 
-
-##### This is a small python project to detect Parkinsons Disease using XG Boost, Cat Booast and LightGMB.
-##### It also compares the r2_score, accuracy score of all 3 models and calculates the confusion matrix for all 3 models
+________________________________________________________________________________________________________________________________
+#### This is a small python project to detect Parkinsons Disease using XG Boost, Cat Booast and LightGMB and to compare the performance of these 3 models
+#### The project uses -
+      i) r2 score
+      ii) accuracy score
+      iii) confusion matrix
+      
+      
+________________________________________________________________________________________________________________________________
+#### Using a bar graph we visualize and compare the performance of the 3 models
